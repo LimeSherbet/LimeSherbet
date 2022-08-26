@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LimeSherbet
 - 👀 I’m interested in Pretty much all parts technical and software
-- 🌱 I’m currently learning How to code Xamarin
+- 🌱 I’m currently learning How to code Xamarin and WPF 
 - 💞️ I’m looking to collaborate on any and all projects, but particularly wish to learn about very low level back end software and design concepts
 - 📫 How to reach me contact me on discord! Lime Sherbet#8661
 
